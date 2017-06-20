@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 19 20:58:01 2017
 
-@author: ATPX4869
+@author: Doxorubicin
 """
 
 from bs4 import BeautifulSoup
